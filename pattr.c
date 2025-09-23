@@ -20,3 +20,4 @@ printf("%d ", n - min_dist);}
 printf("\n");}
 return 0;
 }
+hello
